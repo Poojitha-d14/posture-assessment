@@ -25,5 +25,4 @@ Applications
 Offices and workstations
 Educational environments
 Home study setups
-
 Ergonomic health monitoring
