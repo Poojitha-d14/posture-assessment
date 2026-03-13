@@ -20,7 +20,7 @@ Works with a standard webcam
 Lightweight and CPU-friendly
 Provides instant visual feedback
 Performance
-The model achieved about 96–97% accuracy in posture classification.
+The model achieved 96.9% accuracy in posture classification.
 Applications
 Offices and workstations
 Educational environments
